@@ -1,27 +1,34 @@
-################################################
-# Syntax coloring map for ShiftRegister74HC595 #
-################################################
+#######################################
+# Syntax Coloring Map For ExampleLibrary
+#######################################
 
-################################################
-# Datatypes (KEYWORD1)                         #
-################################################
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
 
+Test	KEYWORD1
 ShiftRegister	KEYWORD1
+ShiftRegister74HC595	KEYWORD1
 
-################################################
-# Methods and Functions (KEYWORD2)             #
-################################################
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
 
-init    KEYWORD2
-clear   KEYWORD2
-enable  KEYWORD2
+doSomething	KEYWORD2
+init	KEYWORD2
+clear	KEYWORD2
+enable	KEYWORD2
 disable KEYWORD2
-wirteHigh   KEYWORD2
-writeLow    KEYWORD2
-writeBits   KEYWORD2
-wirteByte   KEYWORD2
+writeHigh	KEYWORD2
+writeLow	KEYWORD2
+writeBit	KEYWORD2
+writeBits	KEYWORD2
+writeByte	KEYWORD2
 
-################################################
-# Constants (LITERAL1)                         #
-################################################
+#######################################
+# Instances (KEYWORD2)
+#######################################
 
+#######################################
+# Constants (LITERAL1)
+#######################################
