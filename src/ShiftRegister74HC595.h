@@ -43,7 +43,7 @@ class ShiftRegister74HC595
         void clear();                                               // triggers the clear pin
         void enable();                                              // enables the output
         void disable();                                             // disables the output 
-        void wirteHigh();                                           // sets every output to high 
+        void writeHigh();                                           // sets every output to high 
         void writeLow();                                            // sets every output to low
         void writeBit(bool state);                                   // write one Bit to the shift register
         void writeBits(bool* arrayOfBits, uint16_t sizeOfArray);    // writes data out of an bool array to the shift register
