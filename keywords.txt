@@ -12,7 +12,14 @@ ShiftRegister	KEYWORD1
 # Methods and Functions (KEYWORD2)             #
 ################################################
 
-write	KEYWORD2
+init    KEYWORD2
+clear   KEYWORD2
+enable  KEYWORD2
+disable KEYWORD2
+wirteHigh   KEYWORD2
+writeLow    KEYWORD2
+writeBits   KEYWORD2
+wirteByte   KEYWORD2
 
 ################################################
 # Constants (LITERAL1)                         #
