@@ -10,7 +10,6 @@
 #define ShiftRegister74HC595_h
 
 #include <inttypes.h>
-#include <avr/io.h>
 #include <Arduino.h>
 #include <stdbool.h>
 	
