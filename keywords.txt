@@ -6,7 +6,6 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-Test	KEYWORD1
 ShiftRegister	KEYWORD1
 ShiftRegister74HC595	KEYWORD1
 
@@ -14,7 +13,6 @@ ShiftRegister74HC595	KEYWORD1
 # Methods and Functions (KEYWORD2)
 #######################################
 
-doSomething	KEYWORD2
 init	KEYWORD2
 clear	KEYWORD2
 enable	KEYWORD2
