@@ -1,0 +1,30 @@
+{
+    "name": "ShiftRegister74HC595",
+    "keywords": "74hc595, shift, register, 8-bit, digital, i/o",
+    "description": "Arduino library to use the 74HC595 shift register.",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/teamonestone/ShiftRegister74HC595.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Jonas Merkle [JJM]",
+        "email": "jonas.merkle@tam-onestone.net"
+      },
+      {
+        "name": "Dominik Authaler",
+        "email": "dominik.authaler@tam-onestone.net"
+      },
+      {
+        "name": "Team Onestone",
+        "email": "info@team-onestone.net",
+        "url": "http://team-onestone.net",
+        "maintainer": true
+      }
+    ],
+    "version": "1.0.0",
+    "frameworks": "arduino",
+    "platforms": "*"
+  }
